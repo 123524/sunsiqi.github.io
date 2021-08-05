@@ -1,0 +1,16 @@
+@charset "utf-8";
+/* CSS Document */
+.goal{
+	color:#FF0000;
+	font-size: 16px;
+}
+.qustion{
+	position: relative;
+	line-height: 26px;
+	margin-bottom: 8px;
+	margin-top: 8px;
+	left: 40%;
+}
+#sub{
+	display:none;
+}

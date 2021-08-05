@@ -1,0 +1,36 @@
+@charset "utf-8";
+/* CSS Document */
+#Login_plane{
+	background-color: rgba(56,255,141,0);
+	position: absolute;
+	top:50%;
+	left: 50%;
+	height: auto;
+	width: auto;
+	margin-right: 8%;
+}
+#User_Name{
+	position: relative;
+	margin-right: 10px;
+	
+}
+
+#Password{
+	
+	position: relative;
+	margin-right: 10px;
+	
+}
+.Login_Button{
+	padding: 4px;
+	background: rgba(0,0,0,0.00);
+	border: rgba(0,0,0,0.00);
+}
+#Log_up{
+	position: relative;
+	left:40%;
+}
+#Log_in{
+	position: relative;
+	left: 20%;
+}
